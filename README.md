@@ -1,2 +1,2 @@
 # moodle-plugin-maintaining
-Documentation for maintaining moodleuulm's Moodle plugins in a collaborative way
+Documentation wiki for maintaining moodleuulm's Moodle plugins in a collaborative way.
